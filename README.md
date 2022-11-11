@@ -1,3 +1,2 @@
 # Data-science-project
-Data analysis project
-It is a report based on a dataset, in which i used some statistical tools in order to perform a data analysis, pca and clustering for my course in data science.
+This project is about the Data Analysis course of my Master's degree in Data science for management. The course was statistics based, with focus on the theory about univariate, multivariate (pca, clustering) and model based clustering. The project contains all this topics applied on a dataset. I used RStudio.
